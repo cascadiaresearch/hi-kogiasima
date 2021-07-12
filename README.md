@@ -10,5 +10,5 @@ Script to estimate distances and bearings between consecutive drone locations du
 ## Kogiasima_HI_Maps.R
 Script to generate two maps: (1) all CRC-only Ks sightings overlaid on vessel effort tracklines off Hawaii Island, with tracklines colored by sea state (low: B0-2, high: >B2); (2) map of all HIKs020 sightings (including non-CRC) with bathymetric depth contour lines.
 
-## Kogiasima_SuppMap_EffortSight.R:
+## Kogiasima_SuppMap_EffortSight.R
 Script to generate supplemental figure of sightings/effort tracklines off Maui Nui, Oahu, and Kauai/Niihau (stacked). Similar to Hawaii Island, effort tracklines are colored by sea state.
