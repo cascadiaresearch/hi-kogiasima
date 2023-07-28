@@ -1,5 +1,5 @@
 # hi-kogiasima
-Scripts used for analyses of dwarf sperm whale sightings and associated data for 2021 manuscript on site fidelity, spatial use, and behavior (Baird, Mahaffy, &amp; Lerma, In Review).
+Scripts used for analyses of dwarf sperm whale sightings and associated data for: Baird, R.W., S.D. Mahaffy, and J.K. Lerma. 2021. Site fidelity Spatial Use, and Behavior of Dwarf Sperm Whales in Hawaiian Waters: Using Small-Boat Surveys, Photo-Identification, and Unmanned Aerial Systems to Study a Difficult-to-Study Species. *Marine Mammal Science* 38(1):326-348. doi:10.1111/mms.12861. 
 
 ## DistBTSightings.R
 Script to calculate distances between all possible pairs of sightings.
